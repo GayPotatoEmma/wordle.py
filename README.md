@@ -4,7 +4,7 @@
 
 ## Installation
 1. **Install Pygame** `pip install pygame`
-2. **Clone the repository or download the `wordle.py` and `words.txt` files.**
+2. **Clone the repository or download the `wordle.py` file.**
 3. **Install the `Roboto-Regular.ttf` font into your game folder. This font can be found** [here](https://fonts.google.com/specimen/Roboto).
 > **__In the future the game will fallback to Segoe UI if Roboto cannot be found. This is currently not functional yet.__**
 4. **Run the game**
